@@ -15,6 +15,7 @@ public class Hello {
         list.add(456);
         list.add(789);
         if (list == null) {
+            System.out.println("");
         }
     }
 }
